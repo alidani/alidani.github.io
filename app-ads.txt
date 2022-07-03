@@ -87,4 +87,4 @@ webeyemob.com, 70104, RESELLER
 meitu.com, 699, RESELLER
 xandr.com, 13167, RESELLER
 applovin.com, 6debe3462f9f9966b39c145c9c18df54, DIRECT
-facebook.com, 2659758844165945, RESELLER, c3e20eee3f780d68
+facebook.com, 1629298784, RESELLER, c3e20eee3f780d68
