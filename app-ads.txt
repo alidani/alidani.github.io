@@ -88,3 +88,33 @@ meitu.com, 699, RESELLER
 xandr.com, 13167, RESELLER
 applovin.com, 6debe3462f9f9966b39c145c9c18df54, DIRECT
 facebook.com, 2659758844165945, RESELLER, c3e20eee3f780d68
+adelement.com, 30167, RESELLER
+videoheroes.tv, 212499, RESELLER, 064bc410192443d8
+sonobi.com, ac6f1a9ded, RESELLER, d1a215d9eb5aee9e
+video.unrulymedia.com, 170071695, RESELLER, a670c89d4a324e47
+Se7en.es, 212499, RESELLER, 064bc410192443d8
+admanmedia.com, 613, RESELLER
+Pubnative.net, 1007063, RESELLER,  d641df8625486a7b
+Pubnative.net, 1003601, RESELLER,  d641df8625486a7b
+rhythmone.com, 170071695, RESELLER, a670c89d4a324e47
+thebrave.io, 9840732, RESELLER,  c25b2154543746ac
+thebrave.io, 1234594, RESELLER,  c25b2154543746ac
+appnexus.com, 7353, RESELLER, f5ab79cb980f11d1
+appnexus.com, 2764, RESELLER, f5ab79cb980f11d1
+appnexus.com, 10617, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9393, RESELLER, f5ab79cb980f11d1
+appnexus.com, 13293, RESELLER, f5ab79cb980f11d1
+appnexus.com, 13297, RESELLER, f5ab79cb980f11d1
+appnexus.com, 12976, RESELLER, f5ab79cb980f11d1
+adview.com, 48045325, RESELLER,  1b2cc038a11ea319
+algorix.co, 54616, RESELLER, 5b394c12fea27a1d
+algorix.co, 60016, RESELLER, 5b394c12fea27a1d
+indexexchange.com, 194974, RESELLER, 50b1c356f2c5c8fc
+smartadserver.com, 3964, RESELLER
+xandr.com, 7353, RESELLER, f5ab79cb980f11d1
+xandr.com, 13167, RESELLER, f5ab79cb980f11d1
+xandr.com, 13297, RESELLER, f5ab79cb980f11d1
+Pubmatic.com, 157800, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 158118, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 161018, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 161344, RESELLER, 5d62403b186f2ace
