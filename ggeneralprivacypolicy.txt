@@ -1,0 +1,12 @@
+1. The game uses two ads platform to serve ads to you and to track installs the game uses AppsFlyer platform. For analytics purposes the game uses Unity Analytics. These platforms use your data as pointed out in their privacy policies. To get information about policies by the platforms(if you have disabled tracking, no IDFA will be shared to these ad platforms):
+-https://unity3d.com/legal/privacy-policy
+-https://www.applovin.com/privacy/
+-https://www.appsflyer.com/legal/privacy-policy/
+
+2. Besides of the case in "1." we don't explicitly collect your data in any means and as long as this policy is in effect, we won't collect, share your data.
+
+
+3. In-App purchase refund policy will adhere to Apple policies. If the product is not defunct & refund date has passed we won't accept the refund request. We can't & won't refund "consumable" products.
+
+
+4. For other inquiries & suggestions send email to sdndfa@icloud.com
